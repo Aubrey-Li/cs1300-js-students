@@ -1,0 +1,24 @@
+.plant {
+    background-color: rgb(196, 231, 175);
+    margin-left: 20em;
+    margin-right: 20em;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
